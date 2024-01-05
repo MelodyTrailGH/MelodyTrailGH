@@ -21,10 +21,11 @@ CSV Format:
   * Chiptune
 
 Current Project(s):
-* [“LiteCalc” A calculator written in Javascript with Node (nw.js)](https://github.com/CrossWired-Git/LiteCalc)
-* ["OpenGL Ping Pong", An example program written in C recreating the infamous ping pong.](https://github.com/MelodyTrailGH/OpenGL-Ping-Pong)
+* [\"Alchemy2D\", A 2D Modern OpenGL Game Engine in C++. ](https://github.com/MelodyTrailGH/Alchemy2D)
+* [\"Minimal Raylib 2D Template\", A minimal raylib template for creating 2D video games with ease. ](https://github.com/MelodyTrailGH/Minimal-Raylib-2D-Template)
   
 Goodies and other stuff:
-* ["Furnace PCE Drumset \(*DPCELIB*\)", A preset of Furnace instruments specifically optimized for the PC-Engine.](https://github.com/MelodyTrailGH/Furnace-PCE-Drumset)  
+* ["Furnace PCE Drumset \(*DPCELIB*\)", A preset of Furnace instruments specifically optimized for the PC-Engine.](https://github.com/MelodyTrailGH/Furnace-PCE-Drumset)
+* ["OpenGL Ping Pong", An example program written in C recreating the infamous ping pong.](https://github.com/MelodyTrailGH/OpenGL-Ping-Pong) 
   
 Open for help? [✔]
